@@ -13,3 +13,7 @@ used stuff -:
 3)Vanilla Javascript
 
 4)DOM
+
+
+
+https://basicdigitalclock.netlify.app/
