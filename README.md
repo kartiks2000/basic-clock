@@ -10,6 +10,6 @@ used stuff -:
 
 2)CSS
 
-3) Vanilla Javascript
+3)Vanilla Javascript
 
-4) DOM
+4)DOM
